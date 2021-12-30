@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neto Martins</h1>
-<h3 align="center">Apaixonado por Tecnologia, curtindo muito JS, ReactJs, NodeJS</h3>
+<h3 align="center">Apaixonado por Tecnologia, curtindo muito JS, ReactJs e NodeJS</h3>
 
 - 🌱 I’m currently learning **ReactJs, NodeJs and TypeScript**
 
