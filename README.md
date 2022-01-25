@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Neto Martins</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Neto Martins</h1>
 <h3 align="center">Passionate about technology and very excited about ReactJS, NodeJS and TypeScript
 </h3>
 
