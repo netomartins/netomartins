@@ -1,23 +1,44 @@
-<h1 align="center">Hi!! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Neto Martins</h1>
-<h3 align="center">Passionate about technology and very excited about ReactJS, NodeJS and TypeScript
-</h3>
+<h1 align="center">Olá! 👋 Eu sou o Neto Martins</h1>
+<h3 align="center">Desenvolvedor Full Stack apaixonado por tecnologia, inovação e por criar experiências digitais de impacto.</h3>
 
-- 🌱 I’m currently learning **ReactJs, NodeJs and TypeScript**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/netomartins](https://github.com/netomartins)
+🚀 **Sobre mim**
 
-- 💬 Ask me about **ReactJS,NodeJS**
+- 💻 Desenvolvo aplicações web modernas, APIs robustas e interfaces responsivas.
+- 🧠 Foco em performance, boas práticas de código e uma ótima experiência do usuário.
+- ⚡️ Stack principal: **ReactJS**, **Next.js**, **Node.js**, **TypeScript** e **PWA**.
+- 🛠️ Sempre buscando aprender e aplicar as melhores soluções técnicas em cada projeto.
 
-- 📫 How to reach me **www.linkedin.com/in/neto-martins, and netomartins2@hotmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+📫 **Entre em contato**
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/neto-martins/)
+- ✉️ netomartins2@hotmail.com
+
+---
+
+🧰 **Tecnologias e Ferramentas**
+
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/neto-martins/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/neto-martins/" height="30" width="40" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
+📊 **Estatísticas do GitHub**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=netomartins&show_icons=true&locale=en&layout=compact" alt="netomartins" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=netomartins&show_icons=true&locale=en" alt="netomartins" /></p>
+<p align="left">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=netomartins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netomartins&layout=compact&theme=tokyonight"/>
+</p>
