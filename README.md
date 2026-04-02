@@ -59,7 +59,6 @@ Sou **Desenvolvedor Full Stack** com sólida experiência na arquitetura de regr
 
 * 🌐 **LinkedIn:** [linkedin.com/in/neto-martins/](https://www.linkedin.com/in/neto-martins/)
 * ✉️ **Email:** netomartins2@hotmail.com
-* 🚀 **Projeto em Destaque:** [LJ Vendas - Demo](https://ljvendas.com/demonstracao)
 
 ---
 <p align="center">"O código é apenas o meio, a solução é o objetivo."</p>
